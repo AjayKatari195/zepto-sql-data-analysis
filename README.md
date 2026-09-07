@@ -73,6 +73,40 @@ Compared categories based on average discounts and estimated revenue.
 
 Calculated price per gram for products above 100g to identify products offering better value based on weight.
 
+## Analysis Areas
+
+### Product & Pricing Analysis
+
+Analyzed MRP, selling price, discount percentages, and price efficiency to identify attractive product offerings.
+
+### Inventory Analysis
+
+Examined stock availability and calculated total inventory weight across product categories.
+
+### Category Analysis
+
+Compared categories based on average discounts and estimated revenue.
+
+### Product Value Analysis
+
+Calculated price per gram for products above 100g to identify products offering better value based on weight.
+
+## Key Insights
+
+- **Discount Analysis:** Identifies products and categories offering the highest discounts, helping evaluate promotional strategies and customer value.
+
+- **Stock Availability:** Highlights high-priced products that are currently out of stock, helping identify potential inventory and availability issues.
+
+- **Revenue Analysis:** Estimates potential revenue across product categories using selling price and available quantity, enabling category-level performance      comparison.
+
+- **Pricing Analysis:** Identifies high-MRP products with relatively low discounts, providing visibility into premium-priced products and discounting patterns.
+
+- **Product Value Analysis:** Calculates price per gram for products above 100g to compare products based on their effective price-to-weight value.
+
+- **Inventory Analysis:** Measures total inventory weight by category to understand how inventory is distributed across different product categories.
+
+- **Product Weight Segmentation:** Groups products into Low, Medium, and Bulk categories using SQL CASE expressions, making product-level analysis easier.
+
 ## Tools Used
 
 - PostgreSQL
